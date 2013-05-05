@@ -1,9 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cowboys", "Cowboys\Cowboys\Cowboys.csproj", "{2D97AA07-697E-4FA2-98BE-60D19DD52809}"
-EndProject
-Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CowboysContent", "Cowboys\CowboysContent\CowboysContent.contentproj", "{DEEB474C-2900-45E9-B71B-91BAF86DB86A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cowboys", "Cowboys\Cowboys.csproj", "{0CE9DA9E-37AB-4662-9202-6BBD2AF74C9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +9,10 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2D97AA07-697E-4FA2-98BE-60D19DD52809}.Debug|x86.ActiveCfg = Debug|x86
-		{2D97AA07-697E-4FA2-98BE-60D19DD52809}.Debug|x86.Build.0 = Debug|x86
-		{2D97AA07-697E-4FA2-98BE-60D19DD52809}.Release|x86.ActiveCfg = Release|x86
-		{2D97AA07-697E-4FA2-98BE-60D19DD52809}.Release|x86.Build.0 = Release|x86
-		{DEEB474C-2900-45E9-B71B-91BAF86DB86A}.Debug|x86.ActiveCfg = Debug|x86
-		{DEEB474C-2900-45E9-B71B-91BAF86DB86A}.Release|x86.ActiveCfg = Release|x86
+		{0CE9DA9E-37AB-4662-9202-6BBD2AF74C9F}.Debug|x86.ActiveCfg = Debug|x86
+		{0CE9DA9E-37AB-4662-9202-6BBD2AF74C9F}.Debug|x86.Build.0 = Debug|x86
+		{0CE9DA9E-37AB-4662-9202-6BBD2AF74C9F}.Release|x86.ActiveCfg = Release|x86
+		{0CE9DA9E-37AB-4662-9202-6BBD2AF74C9F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
