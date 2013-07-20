@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<World>
+  <!-- Obstacles are a set of n points to describe a polygon. Points are seperated by a : -->
+  <!-- Points are of the form x,y -->
+  <Obstacle>100,110:75,50:100,210:50,180</Obstacle>
+  <Obstacle>250,50:240,30:210,303:360,222</Obstacle>
+  <Obstacle>100,420:250,410:190,505:50,530</Obstacle>
+  <Obstacle>250,150:310,140:300,250:350,190</Obstacle>
+  <Obstacle>350,250:485,310:270,340:270,330</Obstacle>
+  <Obstacle>312,480:370,550:405,370:450,430</Obstacle>
+  <Obstacle>410,110:430,60:570,150:490,210</Obstacle>
+  <Obstacle>580,112:700,20:770,190:640,150</Obstacle>
+  <Obstacle>640,160:740,270:650,340:580,300</Obstacle>
+  <Obstacle>670,440:715,540:600,540:570,500</Obstacle>
+</World>
